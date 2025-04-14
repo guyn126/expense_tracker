@@ -5,7 +5,7 @@ function App() {
   const [expenses, setExpenses] = useState([
     { id: 1, name: 'Ugali', description: "Wednesday's Lunch", amount: 450, date: '2023-06-15' },
     { id: 2, name: 'KPLC tokens', description: 'Power tokens', amount: 1000, date: '2023-06-14' },
-    { id: 3, name: 'Buy shoes', description: 'Add to my shoe collection', amount: 3500, date: '2023-06-13' },``
+    { id: 3, name: 'Buy shoes', description: 'Add to my shoe collection', amount: 3500, date: '2023-06-13' },
     { id: 4, name: 'Buy book', description: 'Add to my book collection', amount: 1200, date: '2023-06-12' },
     { id: 5, name: 'Pay rent', description: 'Absa Bank ', amount: 5000, date: '2023-06-10' }
   ]);
